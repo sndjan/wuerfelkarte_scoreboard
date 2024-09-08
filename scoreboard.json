@@ -1,10 +1,14 @@
 [
 	{
-	  "id": 1,
-	  "name": "Player 1",
-	  "scores": {
-		"Einsen": 5,
-		"Zweien": 10
-	  }
+		"id": 1,
+		"name": "Jan",
+		"score": 240,
+		"date": "2024-09-08"
+	},
+	{
+		"id": 2,
+		"name": "Test",
+		"score": 300,
+		"date": "2024-09-08"
 	}
 ]
